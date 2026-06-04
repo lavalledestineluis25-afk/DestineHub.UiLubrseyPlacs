@@ -1,16 +1,4 @@
---[[
-    ███████╗ █████╗ ████████╗ █████╗ ██╗     ██╗████████╗██╗   ██╗
-    ██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
-    █████╗  ███████║   ██║   ███████║██║     ██║   ██║    ╚████╔╝
-    ██╔══╝  ██╔══██║   ██║   ██╔══██║██║     ██║   ██║     ╚██╔╝
-    ██║     ██║  ██║   ██║   ██║  ██║███████╗██║   ██║      ██║
-    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝
-
-    FatalityLib v1.0
-    A full-featured Roblox UI Library inspired by FATALITY aesthetic.
-    Dark theme | Pink/Red accent | Glow effects | Particle title | Column layout
-
-    Usage: local Lib = loadstring(game:HttpGet("..."))() or require(script.FatalityLib)
+   Usage: local Lib = loadstring(game:HttpGet("..."))() or require(script.FatalityLib)
 --]]
 
 local FatalityLib = {}
